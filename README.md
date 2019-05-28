@@ -5,7 +5,7 @@
 )）；
 3. 编写 ```.tex``` 文件；
 4. 使用 ```XeLaTeX``` 编译（当前仅支持 ```XeLaTeX``` 方式编译，已在 ```Win10 +
-TeXLive 2017```和 ```Ubuntu 16.04 + TeXLive 2017``` 平台上测试）。
+TeXLive 2017```平台、 ```Ubuntu 16.04 + TeXLive 2017```平台和```overleaf```页面上测试）。
 
 ## 截图展示
 ![](https://github.com/tangxiangru/CCNU_ConfBeamer/blob/master/figures/1.png)
