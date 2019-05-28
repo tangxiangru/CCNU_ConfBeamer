@@ -8,7 +8,7 @@
 TeXLive 2017```和 ```Ubuntu 16.04 + TeXLive 2017``` 平台上测试）。
 
 ## 截图展示
-![](https://github.com/tangxiangru/CCNU_ConfBeamer/blob/master/figures/1.jpg)
-![](https://github.com/tangxiangru/CCNU_ConfBeamer/blob/master/figures/3.jpg)
-![](https://github.com/tangxiangru/CCNU_ConfBeamer/blob/master/figures/2.jpg)
+![](https://github.com/tangxiangru/CCNU_ConfBeamer/blob/master/figures/1.png)
+![](https://github.com/tangxiangru/CCNU_ConfBeamer/blob/master/figures/3.png)
+![](https://github.com/tangxiangru/CCNU_ConfBeamer/blob/master/figures/2.png)
 
